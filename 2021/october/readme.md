@@ -1,0 +1,34 @@
+# October Challenge
+
+## Available Solutions
+- [x] Day 1- [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) - [Solutions](./day-1/readme.md) ![C++](https://img.shields.io/badge/C++-1-blue?style=social&logo=cplusplus)  [1](./day-1/solution1.cpp) 
+- [ ] Day 2 -
+- [x] Day 3- [Jump Game](https://leetcode.com/problems/jump-game/) - [Solutions](./day-3/readme.md) ![C++](https://img.shields.io/badge/C++-1-blue?style=social&logo=cplusplus)  [1](./day-3/solution1.cpp) 
+- [ ] Day 4 -
+- [ ] Day 5 -
+- [x] Day 6- [Jump Game](https://leetcode.com/problems/jump-game/) - [Solutions](./day-6/readme.md) ![C++](https://img.shields.io/badge/C++-1-blue?style=social&logo=cplusplus)  [1](./day-6/solution1.cpp) 
+- [x] Day 7- [Jump Game](https://leetcode.com/problems/jump-game/) - [Solutions](./day-7/readme.md) ![C++](https://img.shields.io/badge/C++-1-blue?style=social&logo=cplusplus)  [1](./day-7/solution1.cpp) 
+- [ ] Day 8 -
+- [ ] Day 9 -
+- [ ] Day 10 -
+- [ ] Day 11 -
+- [ ] Day 12 -
+- [ ] Day 13 -
+- [ ] Day 14 -
+- [ ] Day 15 -
+- [ ] Day 16 -
+- [ ] Day 17 -
+- [ ] Day 18 -
+- [ ] Day 19 -
+- [ ] Day 20 -
+- [ ] Day 21 -
+- [ ] Day 22 -
+- [ ] Day 23 -
+- [ ] Day 24 -
+- [ ] Day 25 -
+- [ ] Day 26 -
+- [ ] Day 27 -
+- [ ] Day 28 -
+- [ ] Day 29 -
+- [ ] Day 30 -
+- [ ] Day 31 -
